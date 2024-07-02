@@ -2,6 +2,10 @@
 
 This repository contains a series of JavaScript coding exercises designed to assess your programming skills. Please follow the instructions below to complete the exercises and submit your solutions.
 
+### Prepare your workstation
+
+[Ensure your workstation is ready](https://gist.github.com/aryeh-evinced/3109293b7d85c4d00eb80dbb863d29e8)
+
 ### Getting Started
 
 1. Clone this repository to your local machine.
@@ -9,7 +13,7 @@ This repository contains a series of JavaScript coding exercises designed to ass
    ```
    git checkout -b firstname-lastname
    ```
-3. Navigate to each exercise folder and complete the tasks as described in the individual README files.
+3. Navigate to each exercise folder and complete the tasks as described in the individual `README.md` files.
 
 ### Submission
 
@@ -31,7 +35,7 @@ Good luck, and we look forward to reviewing your solutions!
 
 ## Technical Questions
 
-[Exercise 1 - JSON Manipulation](src/exercise-1/README.md)
-[Exercise 2 - Deep Copy](src/exercise-2/README.md)
-[Exercise 3 - Promise Pool](src/exercise-3/README.md)
-[Exercise 4 - Flatten Nested Array](src/exercise-4/README.md)
+- [Exercise 1 - JSON Manipulation](src/exercise-1/README.md)
+- [Exercise 2 - Deep Copy](src/exercise-2/README.md)
+- [Exercise 3 - Promise Pool](src/exercise-3/README.md)
+- [Exercise 4 - Flatten Nested Array](src/exercise-4/README.md)
