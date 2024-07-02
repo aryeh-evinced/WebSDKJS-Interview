@@ -39,3 +39,5 @@ Good luck, and we look forward to reviewing your solutions!
 - [Exercise 2 - Deep Copy](src/exercise-2/README.md)
 - [Exercise 3 - Promise Pool](src/exercise-3/README.md)
 - [Exercise 4 - Flatten Nested Array](src/exercise-4/README.md)
+- [Exercise 5 - Timeout Cancellation](src/exercise-5/README.md)
+- [Exercise 6 - Event Emitter](src/exercise-6/README.md)
